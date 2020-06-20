@@ -3,7 +3,7 @@ chardet==3.0.4
 idna==2.9
 lxml==4.5.0
 pyTelegramBotAPI==3.7.1
-requests==2.7.0
+requests==2.20.0
 six==1.15.0
 telebot==0.0.3
 threaded==4.0.8
